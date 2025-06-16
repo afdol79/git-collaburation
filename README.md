@@ -113,3 +113,9 @@ ___ข้อความตัวหนาและเอียง___
 [1]: https://example.com
 [reference-name]: https://example.com "คำอธิบาย"
 ```
+
+```
+3 ลิงก์อัตโนมัติ
+<https://example.com>
+<email@example.com>
+```
