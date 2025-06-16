@@ -104,3 +104,12 @@ ___ข้อความตัวหนาและเอียง___
 [ข้อความที่แสดง](https://example.com)
 [ข้อความที่แสดง](https://example.com "คำอธิบายเพิ่มเติม")
 ```
+
+```
+5.2 ลิงก์อ้างอิง (Reference Links)
+[ข้อความที่แสดง][1]
+[ข้อความที่แสดง][reference-name]
+
+[1]: https://example.com
+[reference-name]: https://example.com "คำอธิบาย"
+```
